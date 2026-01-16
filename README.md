@@ -9,5 +9,5 @@ Kindly change gpu-api to vulkun (or is it vulkan?)
 I use d3d11 because I have nvidia gpu only and vulkan/vulkun was giving me problems on non-standard resolutions such as 960p.
 
 ### In case you didn't read the docs
-- For Linux: Clone this repo in ~/.config/ and rename portable_config to mpv
+- For Linux: Clone this repo rename portable_config to mpv and move the folder mpv to .config/ 
 - For Wind00z: read the docs idk
