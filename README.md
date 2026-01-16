@@ -15,3 +15,4 @@ I use d3d11 because I have nvidia gpu only and vulkan/vulkun was giving me probl
 ### Last but not the Least
 Pressing S for screenshot will throw you error because YOU are supposed to set screenshot directory in the mpv.conf
 I didn't set any path because I just use prtscr
+Change shader paths appropriately
